@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Constructores limpios](https://franiglesias.github.io/clean-constructors/)
 - [Como hacer una kata de código](https://franiglesias.github.io/resolving-code-katas/)
 - [Test &amp;amp;&amp;amp; Commit || Revert](https://franiglesias.github.io/tcr/)
 - [Métodos largos](https://franiglesias.github.io/long-method/)
 - [Outside-in y Behavior Driven Development 7](https://franiglesias.github.io/outside-in-with-behat-phpspec-7/)
-- [Outside-in y Behavior Driven Development 6](https://franiglesias.github.io/outside-in-with-behat-phpspec-6/)
 <!-- TB-FEED:END -->
 
 
