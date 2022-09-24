@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Más allá de la pirámide de tests](https://franiglesias.github.io/beyond-test-pyramid/)
 - [Mis problemas gestionando errores en Golang](https://franiglesias.github.io/golang-managing-errors/)
 - [OOP e Inyección de dependencias en Go](https://franiglesias.github.io/dependency-injection-golang/)
 - [Aprendiendo Go con TDD 2](https://franiglesias.github.io/learning-go-2/)
 - [Aprendiendo Go con TDD 1](https://franiglesias.github.io/learning-go-1/)
-- [Constructores limpios](https://franiglesias.github.io/clean-constructors/)
 <!-- TB-FEED:END -->
 
 
