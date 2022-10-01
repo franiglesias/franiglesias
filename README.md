@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Object Calisthenics. Empaquetar primitivas en objetos](https://franiglesias.github.io/calisthenics-3/)
 - [Object Calisthenics. No usar la palabra clave ELSE](https://franiglesias.github.io/calisthenics-2/)
 - [Object Calisthenics. Solo un nivel de indentación.](https://franiglesias.github.io/calisthenics-1/)
 - [Más allá de la pirámide de tests](https://franiglesias.github.io/beyond-test-pyramid/)
 - [Mis problemas gestionando errores en Golang](https://franiglesias.github.io/golang-managing-errors/)
-- [OOP e Inyección de dependencias en Go](https://franiglesias.github.io/dependency-injection-golang/)
 <!-- TB-FEED:END -->
 
 
