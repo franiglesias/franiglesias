@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Object Calisthenics. Un punto por línea](https://franiglesias.github.io/calisthenics-5/)
 - [Object Calisthenics. Colecciones de primera clase](https://franiglesias.github.io/calisthenics-4/)
 - [Object Calisthenics. Empaquetar primitivas en objetos](https://franiglesias.github.io/calisthenics-3/)
 - [Object Calisthenics. No usar la palabra clave ELSE](https://franiglesias.github.io/calisthenics-2/)
 - [Object Calisthenics. Solo un nivel de indentación.](https://franiglesias.github.io/calisthenics-1/)
-- [Más allá de la pirámide de tests](https://franiglesias.github.io/beyond-test-pyramid/)
 <!-- TB-FEED:END -->
 
 
