@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Object Calisthenics. Mantener todas las entidades pequeñas](https://franiglesias.github.io/calisthenics-7/)
 - [Object Calisthenics. No usar abreviaturas](https://franiglesias.github.io/calisthenics-6/)
 - [Object Calisthenics. Un punto por línea](https://franiglesias.github.io/calisthenics-5/)
 - [Object Calisthenics. Colecciones de primera clase](https://franiglesias.github.io/calisthenics-4/)
 - [Object Calisthenics. Empaquetar primitivas en objetos](https://franiglesias.github.io/calisthenics-3/)
-- [Object Calisthenics. No usar la palabra clave ELSE](https://franiglesias.github.io/calisthenics-2/)
 <!-- TB-FEED:END -->
 
 
