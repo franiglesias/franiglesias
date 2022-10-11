@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Object Calisthenics. No user getters, setters o propiedades públicas](https://franiglesias.github.io/calisthenics-9/)
 - [Object Calisthenics. No más de dos variables de instancia por clase](https://franiglesias.github.io/calisthenics-8/)
 - [Object Calisthenics. Mantener todas las entidades pequeñas](https://franiglesias.github.io/calisthenics-7/)
 - [Object Calisthenics. No usar abreviaturas](https://franiglesias.github.io/calisthenics-6/)
 - [Object Calisthenics. Un punto por línea](https://franiglesias.github.io/calisthenics-5/)
-- [Object Calisthenics. Colecciones de primera clase](https://franiglesias.github.io/calisthenics-4/)
 <!-- TB-FEED:END -->
 
 
