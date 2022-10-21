@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Generar representaciones de un objeto sin exponer getters](https://franiglesias.github.io/representation-2/)
 - [Object Calisthenics. Comentarios finales](https://franiglesias.github.io/calisthenics-10/)
 - [Object Calisthenics. No user getters, setters o propiedades públicas](https://franiglesias.github.io/calisthenics-9/)
 - [Object Calisthenics. No más de dos variables de instancia por clase](https://franiglesias.github.io/calisthenics-8/)
 - [Object Calisthenics. Mantener todas las entidades pequeñas](https://franiglesias.github.io/calisthenics-7/)
-- [Object Calisthenics. No usar abreviaturas](https://franiglesias.github.io/calisthenics-6/)
 <!-- TB-FEED:END -->
 
 
