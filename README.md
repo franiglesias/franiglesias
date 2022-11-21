@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Dungeon 6](https://franiglesias.github.io/dungeon-6/)
 - [Dungeon 5](https://franiglesias.github.io/dungeon-5/)
 - [Dungeon 4](https://franiglesias.github.io/dungeon-4/)
 - [Dungeon 3](https://franiglesias.github.io/dungeon-3/)
 - [Dungeon 2](https://franiglesias.github.io/dungeon-2/)
-- [Dungeon 1](https://franiglesias.github.io/dungeon-1/)
 <!-- TB-FEED:END -->
 
 
