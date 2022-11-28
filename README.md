@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
-- [Dungeon 7 Code Review](https://franiglesias.github.io/dungeon-7/)
-- [Dungeon 6](https://franiglesias.github.io/dungeon-6/)
-- [Dungeon 5](https://franiglesias.github.io/dungeon-5/)
-- [Dungeon 4](https://franiglesias.github.io/dungeon-4/)
-- [Dungeon 3](https://franiglesias.github.io/dungeon-3/)
+- [Dungeon 8. Energía y feature flags](https://franiglesias.github.io/dungeon-8/)
+- [Dungeon 7. Code Review](https://franiglesias.github.io/dungeon-7/)
+- [Dungeon 6. Builders al rescate](https://franiglesias.github.io/dungeon-6/)
+- [Dungeon 5. Laberintos y deuda técnica](https://franiglesias.github.io/dungeon-5/)
+- [Dungeon 4. Una historia de usuario](https://franiglesias.github.io/dungeon-4/)
 <!-- TB-FEED:END -->
 
 
