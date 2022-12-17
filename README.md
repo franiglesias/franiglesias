@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Decoradores en Python](https://franiglesias.github.io/python-decorators/)
 - [Dungeon 12. Otra revisión de código](https://franiglesias.github.io/dungeon-12/)
 - [Dungeon 11. Power-ups y un poco de orden](https://franiglesias.github.io/dungeon-11/)
 - [Dungeon 10. Eventos para controlarlos a todos](https://franiglesias.github.io/dungeon-10/)
 - [Dungeon 9. El camino equivocado](https://franiglesias.github.io/dungeon-9/)
-- [Dungeon 8. Energía y feature flags](https://franiglesias.github.io/dungeon-8/)
 <!-- TB-FEED:END -->
 
 
