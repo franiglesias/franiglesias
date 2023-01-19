@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Dungeon 15. Problemas con null y modelando una mano](https://franiglesias.github.io/dungeon-15/)
 - [Sobre herencia, composición y cosas de encapsulación](https://franiglesias.github.io/inheritance-composition/)
 - [Dungeon 14. Salir con un tesoro. Parte 2](https://franiglesias.github.io/dungeon-14/)
 - [Dungeon 13. Salir con un tesoro. Parte 1](https://franiglesias.github.io/dungeon-13/)
 - [Decoradores en Python](https://franiglesias.github.io/python-decorators/)
-- [Dungeon 12. Otra revisión de código](https://franiglesias.github.io/dungeon-12/)
 <!-- TB-FEED:END -->
 
 
