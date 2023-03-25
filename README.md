@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Desacoplarse del sistema](https://franiglesias.github.io/decoupling_from_system/)
 - [Como mejorar tus tests](https://franiglesias.github.io/test-improvement/)
 - [Dungeon 15. Problemas con null y modelando una mano](https://franiglesias.github.io/dungeon-15/)
 - [Sobre herencia, composición y cosas de encapsulación](https://franiglesias.github.io/inheritance-composition/)
 - [Dungeon 14. Salir con un tesoro. Parte 2](https://franiglesias.github.io/dungeon-14/)
-- [Dungeon 13. Salir con un tesoro. Parte 1](https://franiglesias.github.io/dungeon-13/)
 <!-- TB-FEED:END -->
 
 
