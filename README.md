@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
-- [Dobles de repositorio para tests](https://franiglesias.github.io/faking_repositories/)
+- [Tests y repositorios](https://franiglesias.github.io/fake_repositories/)
 - [Desacoplarse del sistema](https://franiglesias.github.io/decoupling_from_system/)
 - [Como mejorar tus tests](https://franiglesias.github.io/test-improvement/)
 - [Dungeon 15. Problemas con null y modelando una mano](https://franiglesias.github.io/dungeon-15/)
