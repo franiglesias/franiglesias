@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Patrón Builder en Golang](https://franiglesias.github.io/builder-golang/)
+- [Aplicación simple con Arquitectura Hexagonal](https://franiglesias.github.io/hexagonal-2/)
 - [Introducción a la Arquitectura Hexagonal](https://franiglesias.github.io/hexagonal/)
 - [Tests y repositorios](https://franiglesias.github.io/fake_repositories/)
 - [Desacoplarse del sistema](https://franiglesias.github.io/decoupling_from_system/)
-- [Como mejorar tus tests](https://franiglesias.github.io/test-improvement/)
-- [Dungeon 15. Problemas con null y modelando una mano](https://franiglesias.github.io/dungeon-15/)
 <!-- TB-FEED:END -->
 
 
