@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Refactoriza rompiendo cosas](https://franiglesias.github.io/refactor-by-breaking/)
 - [Despejar una maraña de condicionales](https://franiglesias.github.io/uplift-conditional/)
 - [Cobertura de test rápida con Golden Master](https://franiglesias.github.io/approval_testing/)
 - [Patrón Builder en Golang](https://franiglesias.github.io/builder-golang/)
 - [Introducción a la Arquitectura Hexagonal](https://franiglesias.github.io/hexagonal/)
-- [Tests y repositorios](https://franiglesias.github.io/fake_repositories/)
 <!-- TB-FEED:END -->
 
 
