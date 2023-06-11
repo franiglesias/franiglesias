@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Una aplicación hexagonal construida con BDD &lpar;1&rpar;](https://franiglesias.github.io/hexagonal-3/)
 - [Algunas dudas comunes con Arquitectura Hexagonal](https://franiglesias.github.io/hexagonal-2/)
 - [De condicionales a polimorfismo](https://franiglesias.github.io/introducing-polymorphism/)
 - [Refactoriza rompiendo cosas](https://franiglesias.github.io/refactor-by-breaking/)
 - [Despejar una maraña de condicionales](https://franiglesias.github.io/uplift-conditional/)
-- [Cobertura de test rápida con Golden Master](https://franiglesias.github.io/approval_testing/)
 <!-- TB-FEED:END -->
 
 
