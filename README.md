@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Creando un adaptador driver en una aplicación hexagonal](https://franiglesias.github.io/hexagonal-5/)
 - [Los tests mentirosos](https://franiglesias.github.io/liar_tests/)
 - [Tipos vs Value Objects](https://franiglesias.github.io/types_vs_value_objects/)
 - [Intentando llegar a buen puerto con Arquitectura Hexagonal y BDD](https://franiglesias.github.io/hexagonal-4/)
 - [Una aplicación hexagonal construida con BDD &lpar;1&rpar;](https://franiglesias.github.io/hexagonal-3/)
-- [Algunas dudas comunes con Arquitectura Hexagonal](https://franiglesias.github.io/hexagonal-2/)
 <!-- TB-FEED:END -->
 
 
