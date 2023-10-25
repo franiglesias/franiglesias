@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Seams en Golang](https://franiglesias.github.io/seams-golang/)
 - [Cuando y como testear métodos privados](https://franiglesias.github.io/test-private-methods/)
 - [Creando un adaptador driver en una aplicación hexagonal](https://franiglesias.github.io/hexagonal-5/)
 - [Los tests mentirosos](https://franiglesias.github.io/liar_tests/)
 - [Tipos vs Value Objects](https://franiglesias.github.io/types_vs_value_objects/)
-- [Intentando llegar a buen puerto con Arquitectura Hexagonal y BDD](https://franiglesias.github.io/hexagonal-4/)
 <!-- TB-FEED:END -->
 
 
