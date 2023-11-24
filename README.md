@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Mensajería variada](https://franiglesias.github.io/command_bus_3/)
 - [Disfrutando del Command Bus](https://franiglesias.github.io/command_bus_2/)
 - [Como funciona un bus de mensajes](https://franiglesias.github.io/command_bus_1/)
 - [Como añadir features en arquitectura hexagonal](https://franiglesias.github.io/new-features-in-hexagonal-app/)
 - [Seams en Golang](https://franiglesias.github.io/seams-golang/)
-- [Cuando y como testear métodos privados](https://franiglesias.github.io/test-private-methods/)
 <!-- TB-FEED:END -->
 
 
