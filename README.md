@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Refactoring para quienes no refactorizan 3](https://franiglesias.github.io/intro_refactor_3/)
 - [Refactor para quienes no refactorizan 2](https://franiglesias.github.io/intro_refactor_2/)
 - [Refactoring para quienes no refactorizan](https://franiglesias.github.io/intro_refactor_1/)
 - [Mensajería variada](https://franiglesias.github.io/command_bus_3/)
 - [Disfrutando del Command Bus](https://franiglesias.github.io/command_bus_2/)
-- [Como funciona un bus de mensajes](https://franiglesias.github.io/command_bus_1/)
 <!-- TB-FEED:END -->
 
 
