@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [¿Cuantos parámetros por función?](https://franiglesias.github.io/too-many-parameters/)
 - [Interfaces en Golang](https://franiglesias.github.io/golang-interface/)
 - [Dobles de test en Golang usando Context](https://franiglesias.github.io/golang-stubs-with-context/)
 - [Refactoring para quienes no refactorizan 3](https://franiglesias.github.io/intro_refactor_3/)
 - [Refactor para quienes no refactorizan 2](https://franiglesias.github.io/intro_refactor_2/)
-- [Refactoring para quienes no refactorizan](https://franiglesias.github.io/intro_refactor_1/)
 <!-- TB-FEED:END -->
 
 
