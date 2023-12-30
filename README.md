@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [From 0% to Cleanly Refactored 100% tested code](https://franiglesias.github.io/From-0-to-Cleanly-Refactored-100-tested-code/)
+- [Understanding Legacy Code with TCR](https://franiglesias.github.io/Understanding-Legacy-Code-with-TCR/)
+- [Gilding the Rose, Refactoring-Driven Development](https://franiglesias.github.io/gliding-the-rose/)
+- [Presentando The Talking List](https://franiglesias.github.io/introducing-tb-list/)
 - [¿Cuantos parámetros por función?](https://franiglesias.github.io/too-many-parameters/)
-- [Interfaces en Golang](https://franiglesias.github.io/golang-interface/)
-- [Dobles de test en Golang usando Context](https://franiglesias.github.io/golang-stubs-with-context/)
-- [Refactoring para quienes no refactorizan 3](https://franiglesias.github.io/intro_refactor_3/)
-- [Refactor para quienes no refactorizan 2](https://franiglesias.github.io/intro_refactor_2/)
 <!-- TB-FEED:END -->
 
 
