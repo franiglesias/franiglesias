@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Don’t bite off more than you can chew](https://franiglesias.github.io/Don-t-bite-off-more-than-you-can-chew/)
+- [Messaging Flavours](https://franiglesias.github.io/Messaging-Flavours/)
 - [From 0% to Cleanly Refactored 100% tested code](https://franiglesias.github.io/From-0-to-Cleanly-Refactored-100-tested-code/)
 - [Understanding Legacy Code with TCR](https://franiglesias.github.io/Understanding-Legacy-Code-with-TCR/)
 - [Gilding the Rose, Refactoring-Driven Development](https://franiglesias.github.io/gliding-the-rose/)
-- [Presentando The Talking List](https://franiglesias.github.io/introducing-tb-list/)
-- [¿Cuantos parámetros por función?](https://franiglesias.github.io/too-many-parameters/)
 <!-- TB-FEED:END -->
 
 
