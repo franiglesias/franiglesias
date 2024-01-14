@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Haciendo un spike para crear una librería de Go](https://franiglesias.github.io/making_go_library/)
 - [Don’t bite off more than you can chew](https://franiglesias.github.io/Don-t-bite-off-more-than-you-can-chew/)
 - [Messaging Flavours](https://franiglesias.github.io/Messaging-Flavours/)
 - [From 0% to Cleanly Refactored 100% tested code](https://franiglesias.github.io/From-0-to-Cleanly-Refactored-100-tested-code/)
 - [Understanding Legacy Code with TCR](https://franiglesias.github.io/Understanding-Legacy-Code-with-TCR/)
-- [Gilding the Rose, Refactoring-Driven Development](https://franiglesias.github.io/gliding-the-rose/)
 <!-- TB-FEED:END -->
 
 
