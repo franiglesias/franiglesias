@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Breaking out of legacy with 3P](https://franiglesias.github.io/Breaking-out-of-legacy-with-3P/)
+- [Diff.blog](https://franiglesias.github.io/Diff.blog/)
+- [Some economics of refactoring](https://franiglesias.github.io/Some-economics-of-refactoring/)
 - [Fifty Quick Ideas to Improve Your Tests](https://franiglesias.github.io/Fifty-Quick-Ideas-to-Improve-Your-Tests/)
 - [Aislarse del sistema de archivos y una técnica de testing](https://franiglesias.github.io/isolate_from_file_system/)
-- [Haciendo un spike para crear una librería de Go](https://franiglesias.github.io/making_go_library/)
-- [Don’t bite off more than you can chew](https://franiglesias.github.io/Don-t-bite-off-more-than-you-can-chew/)
-- [Messaging Flavours](https://franiglesias.github.io/Messaging-Flavours/)
 <!-- TB-FEED:END -->
 
 
