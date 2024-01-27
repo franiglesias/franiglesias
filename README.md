@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Functional options en Go](https://franiglesias.github.io/Functional-options-en-Go/)
 - [Self-referential functions and the design of options](https://franiglesias.github.io/Self-referential-functions-and-the-design-of-options/)
 - [Version Tag](https://franiglesias.github.io/Version-Tag/)
 - [Breaking out of legacy with 3P](https://franiglesias.github.io/Breaking-out-of-legacy-with-3P/)
 - [Diff.blog](https://franiglesias.github.io/Diff.blog/)
-- [Some economics of refactoring](https://franiglesias.github.io/Some-economics-of-refactoring/)
 <!-- TB-FEED:END -->
 
 
