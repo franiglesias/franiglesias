@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Tidy First? A Personal Exercise in Empirical Software Design](https://franiglesias.github.io/Tidy-First-A-Personal-Exercise-in-Empirical-Software-Design/)
 - [Golden, librería de snapshot testing en Go](https://franiglesias.github.io/Golden-librer%C3%ADa-de-snapshot-testing-en-Go/)
 - [Software development is a learning process](https://franiglesias.github.io/Software-development-is-a-learning-process/)
 - [Un caso de Uplift Conditional](https://franiglesias.github.io/a_case_for_uplift_conditional/)
 - [Functional options en Go](https://franiglesias.github.io/Functional-options-en-Go/)
-- [Self-referential functions and the design of options](https://franiglesias.github.io/Self-referential-functions-and-the-design-of-options/)
 <!-- TB-FEED:END -->
 
 
