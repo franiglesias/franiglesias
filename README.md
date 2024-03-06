@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Indently](https://franiglesias.github.io/Indently/)
 - [No, Domain-Application-Infrastructure no es arquitectura hexagonal](https://franiglesias.github.io/no-hexagonall/)
 - [Developer Tools para IntelliJ](https://franiglesias.github.io/Developer-Tools-para-IntelliJ/)
 - [Opciones funcionales en Go y en PHP](https://franiglesias.github.io/functional-options-go-php/)
 - [Poniendo un test bajo test en PHP](https://franiglesias.github.io/testing-test-php/)
-- [Tidy First? A Personal Exercise in Empirical Software Design](https://franiglesias.github.io/Tidy-First-A-Personal-Exercise-in-Empirical-Software-Design/)
 <!-- TB-FEED:END -->
 
 
