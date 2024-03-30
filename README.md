@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Understanding the four rules of simple design](https://franiglesias.github.io/Understanding-the-four-rules-of-simple-design/)
 - [Teoría de constraints y mejora de equipos](https://franiglesias.github.io/contraints-theory/)
 - [El blog de Julia Evans](https://franiglesias.github.io/El-blog-de-Julia-Evans/)
 - [Indently](https://franiglesias.github.io/Indently/)
 - [No, Domain-Application-Infrastructure no es arquitectura hexagonal](https://franiglesias.github.io/no-hexagonall/)
-- [Developer Tools para IntelliJ](https://franiglesias.github.io/Developer-Tools-para-IntelliJ/)
 <!-- TB-FEED:END -->
 
 
