@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Vertical Slice Architecture](https://franiglesias.github.io/vertical-slice-architecture/)
 - [Preparando un proyecto Symfony para experimentar con Vertical Slice Architecture](https://franiglesias.github.io/symfony-app-setup/)
 - [Gracias Juan Manuel](https://franiglesias.github.io/farewell_juan_manuel/)
 - [Mutation Testing](https://franiglesias.github.io/mutation-testing/)
 - [Code Opinion](https://franiglesias.github.io/Code-Opinion/)
-- [Snapshot Testing in the Backend](https://franiglesias.github.io/Snapshot-Testing-in-the-Backend/)
 <!-- TB-FEED:END -->
 
 
