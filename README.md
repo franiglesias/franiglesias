@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [VSA. Más de una feature](https://franiglesias.github.io/vsa-3/)
 - [VSA. Diseño del handler](https://franiglesias.github.io/vsa-2/)
 - [Una aplicación usando Vertical Slice Architecture](https://franiglesias.github.io/vsa-1/)
 - [Vertical Slice Architecture](https://franiglesias.github.io/vertical-slice-architecture/)
 - [Preparando un proyecto Symfony para experimentar con Vertical Slice Architecture](https://franiglesias.github.io/symfony-app-setup/)
-- [Gracias Juan Manuel](https://franiglesias.github.io/farewell_juan_manuel/)
 <!-- TB-FEED:END -->
 
 
