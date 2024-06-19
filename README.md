@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
 - [Design by Coding](https://franiglesias.github.io/Design-by-Coding/)
+- [El patrón Object Mother](https://franiglesias.github.io/object-mother-2/)
 - [Testeando lo que puede ir mal](https://franiglesias.github.io/sad-path-tests/)
 - [Does One Line Fix Google?](https://franiglesias.github.io/Does-One-Line-Fix-Google/)
 - [TDD outside-in y testing inside-out](https://franiglesias.github.io/outside-in-inside-out/)
-- [VSA. Más de una feature](https://franiglesias.github.io/vsa-3/)
 <!-- TB-FEED:END -->
 
 
