@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Aprende Test Driven Development en Amazon](https://franiglesias.github.io/Aprende-Test-Driven-Development-en-Amazon/)
 - [Hexagonal Architecture Explained](https://franiglesias.github.io/hexagonal-explained/)
 - [Design by Coding](https://franiglesias.github.io/Design-by-Coding/)
 - [El patrón Object Mother](https://franiglesias.github.io/object-mother-2/)
 - [Testeando lo que puede ir mal](https://franiglesias.github.io/sad-path-tests/)
-- [Does One Line Fix Google?](https://franiglesias.github.io/Does-One-Line-Fix-Google/)
 <!-- TB-FEED:END -->
 
 
