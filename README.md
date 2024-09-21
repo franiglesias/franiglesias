@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Evita el acoplamiento fuerte con configurable dependency](https://franiglesias.github.io/configurable_dependency/)
+- [Encapsular primitivos y colecciones](https://franiglesias.github.io/encapsulate/)
+- [A donde vamos, no necesitamos repositorios](https://franiglesias.github.io/repository_bad/)
 - [Aprende Test Driven Development en Amazon](https://franiglesias.github.io/Aprende-Test-Driven-Development-en-Amazon/)
 - [Hexagonal Architecture Explained](https://franiglesias.github.io/hexagonal-explained/)
-- [Design by Coding](https://franiglesias.github.io/Design-by-Coding/)
-- [El patrón Object Mother](https://franiglesias.github.io/object-mother-2/)
-- [Testeando lo que puede ir mal](https://franiglesias.github.io/sad-path-tests/)
 <!-- TB-FEED:END -->
 
 
