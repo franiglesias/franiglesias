@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Validadores componibles](https://franiglesias.github.io/composable-validators/)
 - [No extiendas de AggregateRoot](https://franiglesias.github.io/no_aggregate_root/)
 - [Evita el acoplamiento fuerte con configurable dependency](https://franiglesias.github.io/configurable_dependency/)
 - [Encapsular primitivos y colecciones](https://franiglesias.github.io/encapsulate/)
 - [A donde vamos, no necesitamos repositorios](https://franiglesias.github.io/repository_bad/)
-- [Aprende Test Driven Development en Amazon](https://franiglesias.github.io/Aprende-Test-Driven-Development-en-Amazon/)
 <!-- TB-FEED:END -->
 
 
