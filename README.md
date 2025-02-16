@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Cruzando fronteras con Meaningful Objects](https://franiglesias.github.io/crossing-boundaries/)
 - [Refactorizar al patrón strategy](https://franiglesias.github.io/refactor-to-strategy/)
 - [La paradoja de las colecciones](https://franiglesias.github.io/collection-paradox/)
 - [Validadores componibles](https://franiglesias.github.io/composable-validators/)
 - [No extiendas de AggregateRoot](https://franiglesias.github.io/no_aggregate_root/)
-- [Evita el acoplamiento fuerte con configurable dependency](https://franiglesias.github.io/configurable_dependency/)
 <!-- TB-FEED:END -->
 
 
