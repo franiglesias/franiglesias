@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Lecciones aprendidas del patrón observer](https://franiglesias.github.io/score-keeper-kata/)
 - [The class is not the unit in the London school style of TDD](https://franiglesias.github.io/class-is-not-the-unit/)
 - [La guía definitiva de los dobles de test 2](https://franiglesias.github.io/test-doubles-guide-2/)
 - [La guía definitiva de los dobles de test](https://franiglesias.github.io/test-doubles-guide-1/)
 - [Cruzando fronteras con Meaningful Objects](https://franiglesias.github.io/crossing-boundaries/)
-- [Refactorizar al patrón strategy](https://franiglesias.github.io/refactor-to-strategy/)
 <!-- TB-FEED:END -->
 
 
