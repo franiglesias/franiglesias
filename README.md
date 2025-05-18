@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [TDD outside-in con arquitectura hexagonal 4](https://franiglesias.github.io/hexagonal-tdd-4/)
 - [TDD outside-in con arquitectura hexagonal 3](https://franiglesias.github.io/hexagonal-tdd-3/)
 - [TDD outside-in con arquitectura hexagonal 2](https://franiglesias.github.io/hexagonal-tdd-2/)
 - [TDD outside-in con arquitectura hexagonal](https://franiglesias.github.io/hexagonal-tdd-1/)
 - [Lecciones aprendidas del patrón observer](https://franiglesias.github.io/score-keeper-kata/)
-- [The class is not the unit in the London school style of TDD](https://franiglesias.github.io/class-is-not-the-unit/)
 <!-- TB-FEED:END -->
 
 
