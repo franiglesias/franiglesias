@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [TDD outside-in con arquitectura hexagonal 6](https://franiglesias.github.io/hexagonal-tdd-6/)
 - [Crud APIs Are Poor Design](https://franiglesias.github.io/Crud_APIs_are_Poor_Design/)
 - [TDD outside-in con arquitectura hexagonal 5](https://franiglesias.github.io/hexagonal-tdd-5/)
 - [TDD outside-in con arquitectura hexagonal 4](https://franiglesias.github.io/hexagonal-tdd-4/)
 - [TDD outside-in con arquitectura hexagonal 3](https://franiglesias.github.io/hexagonal-tdd-3/)
-- [TDD outside-in con arquitectura hexagonal 2](https://franiglesias.github.io/hexagonal-tdd-2/)
 <!-- TB-FEED:END -->
 
 
