@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [¿Como? ¿No estás patrocinando la PulpoCon 2025?](https://franiglesias.github.io/sponsor_PulpoCon_2025/)
 - [Añadiendo funcionalidad y resolviendo problemas](https://franiglesias.github.io/hexagonal-tdd-6/)
 - [Crud APIs Are Poor Design](https://franiglesias.github.io/Crud_APIs_are_Poor_Design/)
 - [Sad paths, validaciones y robustez en los tests](https://franiglesias.github.io/hexagonal-tdd-5/)
 - [Walking Skeleton y vía intermedia pragmática](https://franiglesias.github.io/hexagonal-tdd-4/)
-- [Comparativa práctica y conclusiones](https://franiglesias.github.io/hexagonal-tdd-3/)
 <!-- TB-FEED:END -->
 
 
