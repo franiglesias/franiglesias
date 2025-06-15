@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [The Golden Master technique, with approval mode](https://franiglesias.github.io/golden-cookbook-master-approval/)
+- [Testing existing code with snapshot testing](https://franiglesias.github.io/golden-cookbook-snapshot/)
+- [What is golden and how to start with snapshot testing](https://franiglesias.github.io/golden-cookbook-basics/)
 - [¿Como? ¿No estás patrocinando la PulpoCon 2025?](https://franiglesias.github.io/sponsor_PulpoCon_2025/)
 - [Añadiendo funcionalidad y resolviendo problemas](https://franiglesias.github.io/hexagonal-tdd-6/)
-- [Crud APIs Are Poor Design](https://franiglesias.github.io/Crud_APIs_are_Poor_Design/)
-- [Sad paths, validaciones y robustez en los tests](https://franiglesias.github.io/hexagonal-tdd-5/)
-- [Walking Skeleton y vía intermedia pragmática](https://franiglesias.github.io/hexagonal-tdd-4/)
 <!-- TB-FEED:END -->
 
 
