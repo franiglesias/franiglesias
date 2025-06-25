@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [El patrón Result](https://franiglesias.github.io/result-pattern/)
 - [Como funciona un contenedor de inyección de dependencias](https://franiglesias.github.io/dependency-injection-container/)
 - [The Golden Master technique, with approval mode](https://franiglesias.github.io/golden-cookbook-master-approval/)
 - [Testing existing code with snapshot testing](https://franiglesias.github.io/golden-cookbook-snapshot/)
 - [What is golden and how to start with snapshot testing](https://franiglesias.github.io/golden-cookbook-basics/)
-- [¿Como? ¿No estás patrocinando la PulpoCon 2025?](https://franiglesias.github.io/sponsor_PulpoCon_2025/)
 <!-- TB-FEED:END -->
 
 
