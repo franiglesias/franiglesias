@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [El configurador y la aplicación](https://franiglesias.github.io/hexagonal-tdd-7/)
 - [El patrón Result](https://franiglesias.github.io/result-pattern/)
 - [Como funciona un contenedor de inyección de dependencias](https://franiglesias.github.io/dependency-injection-container/)
 - [The Golden Master technique, with approval mode](https://franiglesias.github.io/golden-cookbook-master-approval/)
 - [Testing existing code with snapshot testing](https://franiglesias.github.io/golden-cookbook-snapshot/)
-- [What is golden and how to start with snapshot testing](https://franiglesias.github.io/golden-cookbook-basics/)
 <!-- TB-FEED:END -->
 
 
