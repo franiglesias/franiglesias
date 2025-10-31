@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Large Class](https://franiglesias.github.io/large-class/)
 - [Data Clump](https://franiglesias.github.io/data-clump/)
 - [El configurador y la aplicación revisados](https://franiglesias.github.io/hexagonal-tdd-8/)
 - [El configurador y la aplicación](https://franiglesias.github.io/hexagonal-tdd-7/)
 - [El patrón Result](https://franiglesias.github.io/result-pattern/)
-- [Como funciona un contenedor de inyección de dependencias](https://franiglesias.github.io/dependency-injection-container/)
 <!-- TB-FEED:END -->
 
 
