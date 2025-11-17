@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Primitive Obsession](https://franiglesias.github.io/primitive-obsession/)
 - [Long Parameter List](https://franiglesias.github.io/long-parameter-list/)
 - [Long method](https://franiglesias.github.io/long-method/)
 - [Large Class](https://franiglesias.github.io/large-class/)
 - [Data Clump](https://franiglesias.github.io/data-clump/)
-- [El configurador y la aplicación revisados](https://franiglesias.github.io/hexagonal-tdd-8/)
 <!-- TB-FEED:END -->
 
 
