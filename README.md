@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Review 2025](https://franiglesias.github.io/review-2025/)
 - [Code Smells Catalog](https://franiglesias.github.io/code-smells-catalog/)
 - [Primitive Obsession](https://franiglesias.github.io/primitive-obsession/)
 - [Long Parameter List](https://franiglesias.github.io/long-parameter-list/)
 - [Long method](https://franiglesias.github.io/long-method/)
-- [Large Class](https://franiglesias.github.io/large-class/)
 <!-- TB-FEED:END -->
 
 
