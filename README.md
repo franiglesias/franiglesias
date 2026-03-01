@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Rename, para entender mejor](https://franiglesias.github.io/rename/)
 - [Samman Coaching](https://franiglesias.github.io/samman-coaching/)
 - [Review 2025](https://franiglesias.github.io/review-2025/)
 - [Code Smells Catalog](https://franiglesias.github.io/code-smells-catalog/)
 - [Primitive Obsession](https://franiglesias.github.io/primitive-obsession/)
-- [Long Parameter List](https://franiglesias.github.io/long-parameter-list/)
 <!-- TB-FEED:END -->
 
 
