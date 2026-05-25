@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
+- [Prevenir vulnerabilidades](https://franiglesias.github.io/remediate-vulnerability/)
 - [So long, and thanks for all the fish](https://franiglesias.github.io/the-last-post/)
 - [Rename, para entender mejor](https://franiglesias.github.io/rename/)
 - [Samman Coaching](https://franiglesias.github.io/samman-coaching/)
 - [Review 2025](https://franiglesias.github.io/review-2025/)
-- [Code Smells Catalog](https://franiglesias.github.io/code-smells-catalog/)
 <!-- TB-FEED:END -->
 
 
