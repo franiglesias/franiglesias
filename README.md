@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## 📚 Latest published posts
 <!-- TB-FEED:START -->
-- [La libertad es la esclavitud](https://franiglesias.github.io/ellison-1984/)
 - [Refactoring dirigido por métricas](https://franiglesias.github.io/metric-driven-refactoring/)
 - [Prevenir vulnerabilidades](https://franiglesias.github.io/remediate-vulnerability/)
 - [So long, and thanks for all the fish](https://franiglesias.github.io/the-last-post/)
 - [Rename, para entender mejor](https://franiglesias.github.io/rename/)
+- [Review 2025](https://franiglesias.github.io/review-2025/)
 <!-- TB-FEED:END -->
 
 
